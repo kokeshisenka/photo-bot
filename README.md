@@ -13,5 +13,5 @@
 
 1. Клонуйте репозиторій:
 ```bash
-git clone https://github.com/yourusername/telegram-photo-bot.git
+git clone https://github.com/yourusername/photo-bot.git
 cd telegram-photo-bot
